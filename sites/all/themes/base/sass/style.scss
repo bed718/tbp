@@ -192,6 +192,8 @@ li.opened span.nolink{color: $color_main;}
   }
 }
 
+
+
 #main-container{
   margin-top: 60px;
 }
@@ -210,6 +212,21 @@ li.opened span.nolink{color: $color_main;}
 
   @include bp(s){
     margin: 0 10px; 
+  }
+}
+
+.front{
+  
+  #menu{
+    @include bp(s){
+      display: block;
+    }
+  }
+
+  .menu-toggle{
+    @include bp(s){
+      display: none;
+    }
   }
 }
 
