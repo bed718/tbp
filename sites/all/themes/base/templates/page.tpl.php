@@ -9,9 +9,8 @@
 			<div id="menu">
 				<?php print render($page['nav_main']); ?>
 				<div class="social-icons">
-					<a href="http://twitter.com/" class="icon-twitter" target="_blank"></a>
-					<a href="http://instagram.com/" class="icon-instagram" target="_blank"></a>
-					<a href="" class="icon-youtube" target="_blank"></a>
+					<a href="http://twitter.com/TiffanieByron" class="icon-twitter" target="_blank"></a>
+					<a href="http://instagram.com/TiffanieByron" class="icon-instagram" target="_blank"></a>
 				</div>
 			</div>
 		</div> 
