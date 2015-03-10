@@ -105,7 +105,8 @@ li.opened span.nolink{color: $color_main;}
   position: relative;
   z-index: 10;
 
-  a{
+  a,
+  span{
     padding-bottom: $spacer_main / 2;
     display: block;
     font-size: 12px;
