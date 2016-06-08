@@ -7,7 +7,8 @@
 			<div class="menu-toggle icon-list"></div>
 
 			<div id="menu">
-				<?php print render($page['nav_main']); ?>
+				<?php //print render($page['nav_main']); ?>
+				Coming Soon
 				<div class="social-icons">
 					<a href="http://twitter.com/TiffanieByron" class="icon-twitter" target="_blank"></a>
 					<a href="http://instagram.com/TiffanieByron" class="icon-instagram" target="_blank"></a>

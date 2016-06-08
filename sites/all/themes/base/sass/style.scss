@@ -157,6 +157,9 @@ li.opened span.nolink{color: $color_main;}
 
 #menu{
   display: block;
+  z-index: 100;
+  position: relative;
+  text-align: center;
 
   @include bp(s){
     display: none;
